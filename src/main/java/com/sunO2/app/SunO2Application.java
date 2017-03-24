@@ -20,6 +20,5 @@ public class SunO2Application implements ApplicationWapper{
 
     private void initService() {
         port(8081);
-        ipAddress("http://bbs.bugke.com");
     }
 }
